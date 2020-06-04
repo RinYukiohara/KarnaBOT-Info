@@ -21,7 +21,9 @@ Karna bot is a created to simulate the roll system of Fate Grand Order.
 
 ## Invite
 
-Due to Karna Bot being in Beta testing, there is no invite as of yet.
+Karna BOT is officially in BETA, you can invite him to the server with this link:
+
+https://discord.com/api/oauth2/authorize?client_id=681608754030051449&permissions=629888&scope=bot
 
 ## Contact Me
 
