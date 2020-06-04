@@ -9,7 +9,7 @@ Karna bot is a created to simulate the roll system of Fate Grand Order.
 | k!help  | Links this page  |
 | k!roll  | To roll for one servant  |
 | k!hello  | To say hello  |
-| k!givecookie  | To give a cookie  |
+| k!give  | To give a cookie  |
 | k!charity  | To get a cookie  |	
 
 | Unimplemented  | Description |
