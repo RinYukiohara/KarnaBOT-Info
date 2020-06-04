@@ -1,4 +1,4 @@
-## KarnaBOT
+## Karna BOT
 
 Karna bot is a created to simulate the roll system of Fate Grand Order.
 
@@ -18,6 +18,10 @@ Karna bot is a created to simulate the roll system of Fate Grand Order.
 | k!ticket| To roll for special servants with a ticket  |
 | k!daily| To get daily tickets  |
 | k!games | To see the list of games  |
+
+## Invite
+
+Due to Karna Bot being in Beta testing, there is no invite as of yet.
 
 ## Contact Me
 
