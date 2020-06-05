@@ -6,8 +6,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 
 | Command | Description |
 | ------------- | ------------- |
-| k!help  | Links this page  |
-| k!updates  | To see the recent news  |	
+| k!help  | To learn about the bot  |
 | k!roll  | To roll for one servant  |
 | k!hello  | To say hello  |
 | k!give  | To give a cookie  |
@@ -19,6 +18,10 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!ticket| To roll for special servants with a ticket  |
 | k!daily| To get daily tickets  |
 | k!games | To see the list of games  |
+
+## Update
+
+I am working on usin embeds for the multi roll and other functions, I am trying to see if I can work with it on single roll, but it might not happen. 
 
 ## Invite
 
