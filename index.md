@@ -18,16 +18,17 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!ticket| To roll for special servants with a ticket  |
 | k!daily| To get daily tickets  |
 | k!games | To see the list of games  |
+| k!e “name” | To send an emoji  |
+
+#Emojis
+
+Emojis will be added soon!
 
 # Update
 
 ## Multi Roll
 
-I am still working on the multi roll feature, and with help from friends, it should be done by the end of this month. I am using embeds which should help will visual aesthetics. 
-
-## Single Roll
-
-The single roll unfortunately will not be following the same path as the multi roll with using embeds as I am using local images from my files. It is still functional and may be updated to have embeds in the future.
+The multi roll feature is now functional, I am working on adding more servants to the pool and checking it over with the beta testers. 
 
 ## Tickets and Games
 
