@@ -20,7 +20,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!games | To see the list of games  |
 | k!e “name” | To send an emoji  |
 
-#Emojis
+# Emojis
 
 Emojis will be added soon!
 
