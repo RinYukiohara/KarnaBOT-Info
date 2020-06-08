@@ -1,6 +1,6 @@
 # About
 
-Karna bot is a bot created to simulate the roll system of Fate Grand Order. It has three types of rolls, single, multi, and ticket, it also includes special servants that are not part of FGO.
+Karna bot is a bot created to simulate the roll system of Fate Grand Order. It has three types of rolls, single, multi, and ticket, it also includes special servants that are not part of FGO. 
 
 # List of Commands
 
@@ -47,6 +47,10 @@ I get this question asked a bunch on Instagram and Facebook, and the answer is n
 ## Where can I play with Karna BOT?
 
 You will have to be a member of a server I am in. I won’t give out any invites since I don’t want to get in trouble for advertising when I’m not supposed to, so please just be patient.
+
+## What happens when Karna Bot messages twice?
+
+Please do not be alarmed when you see this, it just means that both my computer and the Heroku are running the bot. 
 
 # Invite
 
