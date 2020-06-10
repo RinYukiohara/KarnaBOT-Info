@@ -37,7 +37,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!eNoCookie | But master, I want one~ |
 |k!ePie | Is there something in there? |
 |k!eSend | SEND HELP!!! |
-|k!eSleepy | Are you tired Master, maybe you should rest |
+|k!eSleepy | Are you tired Master? Maybe you should rest |
 |k!eStar | You’re special |
 
 # Update
