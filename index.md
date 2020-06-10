@@ -1,3 +1,4 @@
+
 # About
 
 Karna bot is a bot created to simulate the roll system of Fate Grand Order. It has three types of rolls, single, multi, and ticket, it also includes special servants that are not part of FGO. 
@@ -18,7 +19,6 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!ticket| To roll for special servants with a ticket  |
 | k!daily| To get daily tickets  |
 | k!games | To see the list of games  |
-| k!e “name” | To send an emoji  |
 
 # Emojis
 
