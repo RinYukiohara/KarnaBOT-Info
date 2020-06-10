@@ -16,19 +16,35 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | Unimplemented | Description |
 | ------------- | ------------- |
 | k!multi  | To roll for ten servants  |
-| k!ticket| To roll for special servants with a ticket  |
-| k!daily| To get daily tickets  |
+| k!ticket | To roll for special servants with a ticket  |
+| k!daily | To get daily tickets  |
 | k!games | To see the list of games  |
 
-# Emojis
-
-Emojis will be added soon!
+| Emojis | Description |
+| ------------- | ------------- |
+| k!eBagel  | Who doesn’t love bagels?  |
+| k!eCamp | It’s camping, with Karna and Arjuna   |
+| k!eDaVinci | Da Vinci is coming for you  |
+| k!eDog | Who’s a good dog?  |
+| k!eEnki  | It’s Enkidu!  |
+| k!eFran | It’s Fran!  |
+| k!eGrail | Praise the Holy Grail  |
+| k!eIceCream | Master needs to cool down too  |
+| k!eImFine  | Are you really? |
+| k!eLove | I love you too  |
+| k!eMissUs | Maybe? |
+| k!eMunch | Munch Munch  |
+| k!eNoCookie | But master, I want one~ |
+|k!ePie | Is there something in there? |
+|k!eSend | SEND HELP!!! |
+|k!eSleepy | Are you tired Master, maybe you should rest |
+|k!eStar | You’re special |
 
 # Update
 
 ## Multi Roll
 
-The multi roll feature is now functional, I am working on adding more servants to the pool and checking it over with the beta testers. 
+The multi roll feature is under maintenance, with the help of the Tales of Crestoria discord server, it should be done soon. 
 
 ## Tickets and Games
 
