@@ -40,7 +40,9 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 |k!eSleepy | Are you tired Master? Maybe you should rest |
 |k!eStar | You’re special |
 
-# Update
+If you'd like to see more of my work, please check my art page: https://www.pixiv.net/en/users/53324887
+
+# Updates
 
 ## Multi Roll
 
@@ -52,7 +54,7 @@ This is still in the planning stage and has not been worked at beyond a single m
 
 ## Tales of Series
 
-Thanks to the help of the Tales of Crestoria community, 20 new servants have been added to the single roll pool. 
+Thanks to the help of the Tales of Crestoria community, 20 new servants have been added to the single roll pool, all coming from the Tales series. 
 
 # FAQ
 
