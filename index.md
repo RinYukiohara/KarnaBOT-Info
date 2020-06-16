@@ -45,7 +45,7 @@ If you'd like to see more of my work, please check my art page: https://www.pixi
 
 ## Multi Roll
 
-The multi roll feature is under maintenance, with the help of the Tales of Crestoria discord server, it should be done soon. 
+The multi roll feature is almost complete, all that’s needed is to have the messages send in embeds so it doesn’t take time to load in the roll results.
 
 ## Tickets and Games
 
