@@ -29,7 +29,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!eEnki  | It’s Enkidu!  |
 | k!eFran | It’s Fran!  |
 | k!eGrail | Praise the Holy Grail  |
-| k!eIceCream | Master needs to cool down too  |
+| k!eIC | Master needs to cool down too  |
 | k!eImFine  | Are you really? |
 | k!eLove | I love you too  |
 | k!eMissUs | Maybe? |
