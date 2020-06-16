@@ -1,4 +1,5 @@
 
+
 # About
 
 Karna bot is a bot created to simulate the roll system of Fate Grand Order. It has three types of rolls, single, multi, and ticket, it also includes special servants that are not part of FGO. 
@@ -17,8 +18,6 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | ------------- | ------------- |
 | k!multi  | To roll for ten servants  |
 | k!ticket | To roll for special servants with a ticket  |
-| k!daily | To get daily tickets  |
-| k!games | To see the list of games  |
 
 | Emojis | Description |
 | ------------- | ------------- |
@@ -29,7 +28,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!eEnki  | It’s Enkidu!  |
 | k!eFran | It’s Fran!  |
 | k!eGrail | Praise the Holy Grail  |
-| k!eIC | Master needs to cool down too  |
+| k!eIC | Master needs to cool down too with some Ice Cream |
 | k!eImFine  | Are you really? |
 | k!eLove | I love you too  |
 | k!eMissUs | Maybe? |
@@ -50,7 +49,7 @@ The multi roll feature is under maintenance, with the help of the Tales of Crest
 
 ## Tickets and Games
 
-This is still in the planning stage and has not been worked at beyond a single message. It will be in development once the multi roll feature has been completed and checked over by beta testers.
+Only the ticket function is being implemented, you can now roll for a guaranteed 5* or 6* if you’re lucky.
 
 ## Tales of Series
 
