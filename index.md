@@ -1,5 +1,3 @@
-
-
 # About
 
 Karna bot is a bot created to simulate the roll system of Fate Grand Order. It has three types of rolls, single, multi, and ticket, it also includes special servants that are not part of FGO. 
@@ -13,11 +11,11 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 | k!hello  | To say hello  |
 | k!give  | To give a cookie  |
 | k!charity  | To get a cookie  |	
+| k!ticket | To roll for a guaranteed 5* servant with a ticket  |
 
 | Unimplemented | Description |
 | ------------- | ------------- |
 | k!multi  | To roll for ten servants  |
-| k!ticket | To roll for special servants with a ticket  |
 
 | Emojis | Description |
 | ------------- | ------------- |
@@ -43,17 +41,7 @@ If you'd like to see more of my work, please check my art page: https://www.pixi
 
 # Updates
 
-## Multi Roll
-
-The multi roll feature is almost complete, all that’s needed is to have the messages send in embeds so it doesn’t take time to load in the roll results.
-
-## Tickets and Games
-
-Only the ticket function is being implemented, you can now roll for a guaranteed 5* or 6* if you’re lucky.
-
-## Tales of Series
-
-Thanks to the help of the Tales of Crestoria community, 20 new servants have been added to the single roll pool, all coming from the Tales series. 
+Updates can be seen when typing k!help.
 
 # FAQ
 
@@ -77,6 +65,6 @@ No link yet
 
 If you have any questions about KarnaBOT, please DM me Darren Tsukimi#2427
 
-# Notes
+# Note
 
 This is somehow an issue I need to address. Karna BOT is a discord bot; he has no connections to the FGO game and won’t make your luck any better. He is a simulation of the FGO roll system, not a modifier of the game.
