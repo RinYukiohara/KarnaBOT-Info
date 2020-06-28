@@ -53,7 +53,7 @@ You will have to be a member of a server I am in. I won’t give out any invites
 
 ## What happens when Karna Bot messages twice?
 
-Please do not be alarmed when you see this, it just means that both my computer and the Heroku are running the bot. 
+Please do not be alarmed when you see this, it just means that both my computer and Heroku are running the bot. 
 
 # Invite
 
