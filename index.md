@@ -4,7 +4,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order. It h
 
 # List of Commands
 
-| Command | Description |
+| General | Description |
 | ------------- | ------------- |
 | k!help  | To learn about the bot  |
 | k!roll  | To roll for one servant  |
@@ -40,6 +40,10 @@ If you'd like to see more of my work, please check my art page: https://www.pixi
 # Updates
 
 Updates can be seen when typing k!help.
+
+# Tales of
+
+Thanks to the help of the Tales of Crestoria community, there are 20 servants who originate from the games. These servants are a permanent part of the servant gacha pools.
 
 # FAQ
 
