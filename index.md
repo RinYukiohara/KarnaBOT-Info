@@ -43,7 +43,7 @@ Updates can be seen when typing k!help.
 
 # Tales of
 
-Thanks to the help of the Tales of Crestoria community, there are 20 servants who originate from the games. These servants are a permanent part of the servant gacha pools.
+As a thanks to the help from the Tales of Crestoria community, there are 20 servants who originate from the Tales games. These servants are a permanent part of the servant gacha pools.
 
 # FAQ
 
