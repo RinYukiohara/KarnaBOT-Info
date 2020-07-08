@@ -47,7 +47,7 @@ As a thanks to the help from the Tales of Crestoria community, there are 20 serv
 
 # Multi Roll
 
-I have not yet found a solution to the delay in messages since it sends each servant in a single message. I have tried to use embeds and code blocks but the for loop makes it extremely difficult to do anything. For now, the best things to do is just wait for the ten servants to be listed before messaging again. 
+I have not yet found a solution to the delay in messages since it sends each servant in a single message. I have tried to use embeds and code blocks but the for loop makes it extremely difficult to do anything. For now, the best thing to do is wait for the ten servants to be listed before messaging again. 
 
 # FAQ
 
