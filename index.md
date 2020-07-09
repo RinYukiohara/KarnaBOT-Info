@@ -47,10 +47,6 @@ Updates can be seen when typing k!help.
 
 As a thanks to the help from the Tales of Crestoria community, there are 20 servants who originate from the Tales games. These servants are a permanent part of the servant gacha pools.
 
-# Multi Roll
-
-There are 10 servants that can be summoned through the multi roll function, unfortunately there still is a delay in messaging so I ask that you be patient as all servants are loaded. I am still looking for a solution to this, either thought using embeds or code blocks, so this will be fixed in a later update.
-
 # FAQ
 
 ## Can I invite Karna BOT?
