@@ -1,3 +1,4 @@
+
 # About
 
 Karna bot is a bot created to simulate the roll system of Fate Grand Order.
@@ -34,6 +35,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order.
 |k!eSend | SEND HELP!!! |
 |k!eSleepy | Are you tired Master? Maybe you should rest |
 |k!eStar | You’re special |
+|k!eWait | Please Wait|
 
 If you'd like to see more of my work, please check my art page: https://www.pixiv.net/en/users/53324887
 
@@ -47,7 +49,7 @@ As a thanks to the help from the Tales of Crestoria community, there are 20 serv
 
 # Multi Roll
 
-I have not yet found a solution to the delay in messages since it sends each servant in a single message. I have tried to use embeds and code blocks but the for loop makes it extremely difficult to do anything. For now, the best thing to do is wait for the ten servants to be listed before messaging again. 
+There are 10 servants that can be summoned through the multi roll function, unfortunately there still is a delay in messaging so I ask that you be patient as all servants are loaded. I am still looking for a solution to this, either thought using embeds or code blocks, so this will be fixed in a later update.
 
 # FAQ
 
