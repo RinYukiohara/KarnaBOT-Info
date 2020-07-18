@@ -3,21 +3,47 @@
 
 Karna bot is a bot created to simulate the roll system of Fate Grand Order.
 
-# List of Commands
+# General Commands
 
-| General | Description |
+| Command | Description |
 | ------------- | ------------- |
 | k!help  | To learn about the bot  |
-| k!roll  | To roll for one servant  |
 | k!hello  | To say hello  |
 | k!give  | To give a cookie  |
 | k!charity  | To get a cookie  |	
-| k!ticket | To roll for a guaranteed 5* servant with a ticket  |
+
+# Gacha Commands
+
+| Command | Description |
+| ------------- | ------------- |
+| k!roll  | To roll for one servant  |
+| k!ticket | To roll for a guaranteed 5★ servant with a ticket  |
 | k!ce  | To roll for a Craft Essence |
 | k!multi  | To roll for ten servants  |
 | k!servants  | To get a list of class specific pools you can summon from  |
 
-| Emojis | Description |
+# Specific Pool Gacha
+
+| Command | Description |
+| ------------- | ------------- |
+| k!saber  | To summon a Saber Servant  |
+| k!archer  | To summon an Archer Servant  |
+| k!lancer  | To summon a Lancer Servant  |
+| k!caster  | To summon a Caster Servant  |
+| k!rider  | To summon a Rider Servant  |
+| k!assassin  | To summon an Assassin Servant  |
+| k!ruler  | To summon a Ruler Servant  |
+| k!avenger  | To summon an Avenger Servant  |
+| k!mooncancer  | To summon a Moon Cancer Servant  |
+| k!berserker  | To summon a Berserker Servant  |
+| k!foreigner  | To summon a Foreigner Servant  |
+| k!alterego  | To summon an Alter Ego Servant  |
+| k!tales  | To summon servants from the Tales series  |
+
+
+# Sticker Commands
+
+| Command | Description |
 | ------------- | ------------- |
 | k!eBagel  | Who doesn’t love bagels?  |
 | k!eCamp | It’s camping, with Karna and Arjuna   |
@@ -45,14 +71,6 @@ If you'd like to see more of my work, please check my art page: https://www.pixi
 As a thanks to the help from the Tales of Crestoria community, there are many servants who originate from the Tales games. These servants are a permanent part of the servant gacha pools.
 
 # FAQ
-
-## Can I invite Karna BOT?
-
-I get this question asked a bunch on Instagram and Facebook, and the answer is no. This is because I want to monitor his activity and respond immediately to any problems that arise.
-
-## Where can I play with Karna BOT?
-
-You will have to be a member of a server I am in. I won’t give out any invites since I don’t want to get in trouble for advertising when I’m not supposed to, so please just be patient.
 
 ## What happens when Karna Bot messages twice?
 
