@@ -15,6 +15,7 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order.
 | k!ticket | To roll for a guaranteed 5* servant with a ticket  |
 | k!ce  | To roll for a Craft Essence |
 | k!multi  | To roll for ten servants  |
+| k!servants  | To get a list of class specific pools you can summon from  |
 
 | Emojis | Description |
 | ------------- | ------------- |
@@ -38,10 +39,6 @@ Karna bot is a bot created to simulate the roll system of Fate Grand Order.
 |k!eWait | Please Wait|
 
 If you'd like to see more of my work, please check my art page: https://www.pixiv.net/en/users/53324887
-
-# Updates
-
-Updates can be seen when typing k!help.
 
 # Tales of
 
