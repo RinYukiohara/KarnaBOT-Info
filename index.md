@@ -81,13 +81,7 @@ Please do not be alarmed when you see this, it just means that both my computer 
 
 Please go to this site if you would like to invite KarnaBOT to your server!
 
-https://www.reddit.com/r/grandorder/comments/hudchr/karnabot_is_now_up_running_and_available_to_join/
-
-# Support Server
-
-Kingdom of Chaldea discord is the main hub for KarnaBOT and where all updates can be seen.
-
-https://discord.gg/ndp63vM
+https://top.gg/bot/681608754030051449
 
 # Contact Me
 
