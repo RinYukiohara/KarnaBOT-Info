@@ -79,9 +79,7 @@ Please do not be alarmed when you see this, it just means that both my computer 
 
 # Invite
 
-Please go to this site if you would like to invite KarnaBOT to your server!
-
-https://top.gg/bot/681608754030051449
+KarnaBOT has become private and is no longer able to be added into servers.
 
 # Contact Me
 
